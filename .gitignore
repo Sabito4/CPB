@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/laba4_nemov
+/laba5_nemov
+/TCP_proj/TCP_proj
+/UDP_SERVER/UDP_SERVER
