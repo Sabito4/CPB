@@ -1,9 +1,30 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Visual Studio временные файлы
+.vs/
+[Bb]in/
+[Oo]bj/
+out/
+build/
 
-/.vs
-/laba4_nemov
-/laba5_nemov
-/TCP_proj/TCP_proj
-/UDP_SERVER/UDP_SERVER
+# Файлы пользовательских настроек
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Кэш компиляции (те самые тяжелые файлы)
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.cachefile
+*.pch
+
+# Результаты сборки
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.aps

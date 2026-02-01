@@ -1,0 +1,3 @@
+﻿  UDP_SERVER.cpp
+C:\Users\TimurD\source\repos\UDP_SERVER\UDP_SERVER\UDP_SERVER.cpp(10,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  UDP_SERVER.vcxproj -> C:\Users\TimurD\source\repos\UDP_SERVER\x64\Debug\UDP_SERVER.exe

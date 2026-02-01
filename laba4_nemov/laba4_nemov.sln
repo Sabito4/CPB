@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba4_nemov", "laba4_nemov\laba4_nemov.vcxproj", "{9B504E10-F65D-4A39-B425-A8C82CDA37BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Debug|x64.ActiveCfg = Debug|x64
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Debug|x64.Build.0 = Debug|x64
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Debug|x86.Build.0 = Debug|Win32
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Release|x64.ActiveCfg = Release|x64
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Release|x64.Build.0 = Release|x64
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Release|x86.ActiveCfg = Release|Win32
+		{9B504E10-F65D-4A39-B425-A8C82CDA37BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB497F0-2188-4A1D-B8BD-C5DF53D02AB6}
+	EndGlobalSection
+EndGlobal
